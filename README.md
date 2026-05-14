@@ -55,19 +55,15 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**nome-do-projeto**](https://github.com/SEU-USUARIO/REPO) | Descrição breve do que o projeto faz | `TypeScript` `Node.js` |
-| [**nome-do-projeto-2**](https://github.com/SEU-USUARIO/REPO2) | Descrição breve do que o projeto faz | `Python` `FastAPI` |
-| [**nome-do-projeto-3**](https://github.com/SEU-USUARIO/REPO3) | Descrição breve do que o projeto faz | `React` `PostgreSQL` |
-
+| [**home-lab-soc**](https://github.com/Gabrielrodriguezzy/home-lab-soc) | Laboratório SOC com Wazuh SIEM, Kali Linux e Metasploitable para estudo de Blue Team | `Wazuh` `Kali` `VirtualBox` |
+  
 ---
 
 ## 🌱 Atualmente
 
-- 🔭 Trabalhando em **nome do projeto atual**
-- 📖 Estudando **tecnologia que você está aprendendo**
-- 💬 Pode me perguntar sobre **suas especialidades**
-- ⚡ Curiosidade: **algo interessante sobre você**
-
+- 🔭 Trabalhando em **Home Lab SOC**
+- 📖 Estudando **Blue Team & Threat Detection**
+- 💬 Pode me perguntar sobre **cibersegurança defensiva**
 ---
 
 <div align="center">
