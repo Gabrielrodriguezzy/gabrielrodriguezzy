@@ -56,7 +56,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**home-lab-soc**](https://github.com/Gabrielrodriguezzy/home-lab-soc) | Laboratório SOC com Wazuh SIEM, Kali Linux e Metasploitable para estudo de Blue Team | `Wazuh` `Kali` `VirtualBox` |
-  
+| [**hermes-kanban-pipeline**](https://github.com/Gabrielrodriguezzy/hermes-kanban-pipeline) | Orquestração autônoma de IA — Workers especializados, pipeline automatizada e monitoramento via Telegram | `Hermes Agent` `DeepSeek` `FastAPI` `Python` |
 ---
 
 ## 🌱 Atualmente
